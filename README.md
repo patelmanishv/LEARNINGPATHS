@@ -111,3 +111,19 @@ https://lnkd.in/gdbxctCf
 📘 Microsoft Power BI Documentation - https://lnkd.in/dbAT7QQ9
 📘 Engage with the Power BI Community - https://lnkd.in/d3-FGaUq
 
+
+## CYBERSECURITY
+
+1) 7 free cybersecurity resources you need to bookmark 
+
+https://lnkd.in/e8SyHpmA
+
+2) "5 Best Free Cyber Security Courses for Begineers to Learn in 2022"
+
+https://lnkd.in/e7CT5eUx
+
+3) "Top 12 online cybersecurity courses for 2023"
+
+https://lnkd.in/e-G7atS3
+
+https://lnkd.in/gTQ9J94D
