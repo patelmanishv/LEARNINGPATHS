@@ -6,7 +6,8 @@ Happy Learning !!
 
 ## ROADMAP TO LEARN DATASCIENCE
 
-![](/images/ROADMAP.png)
+![](/images/ROADMAP.png)  
+Courtesy - Swami Chandrasekaran
 
 ## CHEATSHEETS
 
