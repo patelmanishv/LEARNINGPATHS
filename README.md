@@ -1,4 +1,4 @@
-# Welcome to LEARNING PATHS
+# Welcome to LEARNING PATHS repo
 
 - Below are the links related to computer science stuff
 
