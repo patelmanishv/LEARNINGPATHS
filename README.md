@@ -4,6 +4,10 @@
 
 Happy Learning !!
 
+## ROADMAP TO LEARN DATASCIENCE
+
+![](/images/ROADMAP.png)
+
 ## CHEATSHEETS
 
 𝐋𝐢𝐬𝐭 𝐨𝐟 𝐜𝐚𝐫𝐞𝐟𝐮𝐥𝐥𝐲 𝐜𝐮𝐫𝐚𝐭𝐞𝐝 65 𝐜𝐡𝐞𝐚𝐭𝐬𝐡𝐞𝐞𝐭𝐬 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐞𝐯𝐞𝐫 𝐧𝐞𝐞𝐝 :-
