@@ -174,6 +174,123 @@ https://lnkd.in/gTQ9J94D
 
 11. AI Workflow: Enterprise Model Deployment
 
+## LEARNING PATHS FOR MBA 
+***
+These 21 resources are GOLD, save this post for future:
+
+1) Leadership: Foundations of Teamwork and Leadership 
+
+School: Wharton
+https://lnkd.in/deuTJX3p
+
+2) Marketing: Marketing Management 
+
+School: Wharton
+https://lnkd.in/dzuU3bXw
+
+3) Microeconomics: Microeconomics for Managers
+
+School: MIT
+https://lnkd.in/dmiGZQ2b
+
+4) Financial Theory
+
+School: Yale
+https://lnkd.in/dFkh9KcY
+
+5) Financial Markets 
+
+School: Yale
+https://lnkd.in/dU-uqCQJ
+
+6) Private Equity: Perspectives and Limited and General Partners
+
+School: Wharton
+https://lnkd.in/dyx8WmnN
+
+7) Private Equity: The Consolidation Play and Due Diligence 
+
+School: Wharton
+https://lnkd.in/dUiBNCyZ
+
+8) Principles of Microeconomics School: wharton 
+
+School: MIT
+https://lnkd.in/da5Tb4sG
+
+9) Game Theory 
+
+School: Yale
+https://lnkd.in/dgaRbwh9
+
+10) How to Launch a Successful Startup Company 
+
+School: MIT
+https://lnkd.in/dYwgmPk2
+
+11) Blockchain and Money 
+
+School: MIT 
+https://lnkd.in/d-UAfbEn
+
+12) How to Speak
+
+School: MIT
+https://lnkd.in/dY8ixi_C
+
+13) Scale School
+
+School: Wharton 
+https://lnkd.in/dJeu6K48
+
+14) Growth through acquisition 
+
+School: Wharton
+https://lnkd.in/ddKNMsgf
+
+15) Valuation
+
+School: NYU 
+Aswath Damodaran's Valuation series
+https://lnkd.in/dCfGua3r
+
+16) Negotiation 
+
+School: Stanford
+https://lnkd.in/dD6JR6Th
+
+17) Supply chain Management
+
+School: MIT
+https://lnkd.in/dYbxnZXC
+
+18) Human Resource Management 
+
+School: HFU
+https://lnkd.in/dfNH3b6v
+
+19) Corporate Finance 
+
+School: NYU 
+https://lnkd.in/dT9735cY
+
+School: Corporate Finance Institute 
+https://lnkd.in/d5yMsWgM
+
+20) Financial Management
+
+School: IIT Roorkee
+https://lnkd.in/dqnU5qZT
+
+21) Organizational Culture
+
+School: Stanford
+https://lnkd.in/ds8crbqM
+
+22) Operation Management
+
+School: IITR
+https://lnkd.in/dAgqzj7d
 🔗https://lnkd.in/dV8wHZVx
 
 12. Deep Learning for Business
