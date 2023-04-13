@@ -1,4 +1,4 @@
-# Welcome to LEARNING PATHS repo
+<h1 style = "color: cyan"> Welcome to LEARNING PATHS repo </h1>
 
 - Below are the links related to computer science stuff
 
