@@ -175,7 +175,7 @@ https://lnkd.in/gTQ9J94D
 11. AI Workflow: Enterprise Model Deployment
 
 ## LEARNING PATHS FOR MBA 
-***
+---
 These 21 resources are GOLD, save this post for future:
 
 1) Leadership: Foundations of Teamwork and Leadership 
