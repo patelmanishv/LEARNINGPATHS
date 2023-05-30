@@ -1,0 +1,24 @@
+Vulnerability Assessment & Penetration Testing Job common interview questions - 
+·       Tell me about yourself.
+·       How will you explain the meaning of cybersecurity to a 10-year-old kid?
+·       What do you mean by secure and unsecure ports? Give examples of the same.
+·       What is the secure port number for SQL?
+·       Explain XSS and its countermeasures.
+·       Explain CSRF and its countermeasures.
+·       What is blind SQLi? How will you prevent it?
+·       What is second-order SQLi?
+·       Explain the need for a firewall and IDPS.
+·       Where would you place a firewall in your network infrastructure?
+·       What is the role of SIEM?
+·       Differentiate between encryption and hashing.
+·       Explain OSI and TCP/IP model.
+·       What is TLS? What is the current version of TLS?
+·       Why should you do a VAPT?
+·       What tools have you used for VAPT?
+·       What is port scanning? Which tools are used for port scanning?
+·       Explain various scans that NMAP can do.
+·       Explain MITM, Dos and DDoS attacks and their countermeasures.
+·       Have you used the Metasploit framework? Elaborate on it.
+·       Have you used Nessus and Shodan? Tell me more about it.
+·       How will the client benefit from VAPT?
+·       What care should you take while undertaking a VAPT assignment?  
